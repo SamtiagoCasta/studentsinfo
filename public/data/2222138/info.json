@@ -3,9 +3,9 @@
     "edad": 21,
     "carrera": "Desarrollo de software",
     "semestre": 3,
-    "gustos": ["Lectura", "voleyy playa", "legos", "juegos"],
-    "noGustos": ["Despertarse temprano", "clases de relleno", "MIO"],
-    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv8BIPfR2hY1qsfM4-mE_rmuwQ5eoEgZPIcg&s"
+    "gustos": ["Lectura", "voley playa", "legos", "tatuajes", "cerveza"],
+    "noGustos": ["clases de relleno", "MIO", "gente borracha" ],
+    "foto": "https://media.licdn.com/dms/image/v2/D5603AQHzL8BmxENIJw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1725463300328?e=1746057600&v=beta&t=LntZC_aSszc6_tkd3PHfgxexd7rRwpKnJXYDy4XMSG8"
 }
 
   
